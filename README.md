@@ -91,3 +91,16 @@ _**descendants**_ (Example C) from the ontology tree.
 [24] "Adenoma;Small Intestinal Adenoma"                                                      
 [25] "Adenoma;Colorectal Adenoma"       
 ```
+
+### Citation
+If you use *OmicsMLRepoR* or the harmonized metadata in your work, please cite:
+
+> Long K, Gravel-Pucillo K, Waldron L, Davis S, Oh S (2026). Large-scale manual
+curation and harmonization of metadata from metagenomic and cancer genomic
+repositories: challenges and solutions. *Database*, 2026, baag027.
+doi: [10.1093/database/baag027](https://doi.org/10.1093/database/baag027)
+
+From R:
+```
+citation("OmicsMLRepoR")
+```

@@ -1,0 +1,22 @@
+citHeader("To cite OmicsMLRepoR or the harmonized metadata it provides, please use:")
+
+bibentry(
+    bibtype  = "Article",
+    title    = paste("Large-scale manual curation and harmonization of metadata",
+                     "from metagenomic and cancer genomic repositories:",
+                     "challenges and solutions"),
+    author   = c(
+        person(given = "Kaelyn", family = "Long"),
+        person(given = "Kai", family = "Gravel-Pucillo"),
+        person(given = "Levi", family = "Waldron",
+               comment = c(ORCID = "0000-0003-2725-0694")),
+        person(given = "Sean", family = "Davis"),
+        person(given = "Sehyun", family = "Oh",
+               comment = c(ORCID = "0000-0002-9490-3061"))
+    ),
+    journal  = "Database",
+    year     = "2026",
+    volume   = "2026",
+    pages    = "baag027",
+    doi      = "10.1093/database/baag027"
+)
